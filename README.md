@@ -2,3 +2,4 @@
 
 vero - agnolotis
 vero - canelones
+vero2 - asado
